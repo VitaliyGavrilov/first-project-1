@@ -17,7 +17,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-color:  #f2f2f2 ;
+  background-color:  #f2f2f2;
 }
 
 .logo {
@@ -38,7 +38,7 @@
   margin-left: 64px;
   z-index: 3;
   line-height:  96px;
-  font-size: 102px ;
+  font-size: 102px;
   font-weight: 600;
 }
 
@@ -49,7 +49,7 @@
   bottom: 30px;
   z-index: 3;
   line-height:  25px;
-  font-size: 18px ;
+  font-size: 18px;
   font-weight: normal;
 }
 .subtitle__link {
@@ -95,7 +95,7 @@
 .two-columns__brief {
   width: 175px;
   line-height: 1.2;
-  font-size: 18px ;
+  font-size: 18px;
   font-weight: normal;
   color: #2F80ED;
   margin: 0px;
