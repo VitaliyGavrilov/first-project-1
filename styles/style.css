@@ -140,7 +140,7 @@
   width: 60%;
   text-align: center;
   line-height: 1.15;
-  font-size: 60px ;
+  font-size: 60px;
   font-weight:bold;
 }
 
@@ -149,7 +149,7 @@
   margin-bottom: 0px;
   text-align: center;
   line-height: 34px;
-  font-size: 24px ;
+  font-size: 24px;
   font-weight: normal;
 }
 
@@ -173,13 +173,13 @@
 
  .table__heading {
   line-height: 1.15;
-  font-size: 24px ;
+  font-size: 24px;
   font-weight:bold;
  }
 
 .table__text {
   line-height: 1.2;
-  font-size: 18px ;
+  font-size: 18px;
   font-weight: normal;
 }
 
@@ -198,14 +198,14 @@
   text-align: center;
   z-index: 3;
   line-height: 1.15;
-  font-size: 120px ;
+  font-size: 120px;
   font-weight:bold;
 }
 
 .feynman__subtitle {
   z-index: 3;
   line-height: 51px;
-  font-size: 36px ;
+  font-size: 36px;
   font-weight:normal;
 }
 
@@ -215,7 +215,7 @@
   top: 50%;
   z-index: 3;
   line-height: 51px;
-  font-size: 36px ;
+  font-size: 36px;
   font-weight:normal;
   color: #2f80ed;
   text-decoration: none;
@@ -261,7 +261,7 @@
   width: 200px;
   color: white;
   list-style: none;
-  margin: 80px 0px 0px 0px  ;
+  margin: 80px 0px 0px 0px;
   padding: 0px;
 }
 
@@ -294,7 +294,6 @@
   background-image: url(/images/logo_white.svg);
   height: 35px;
   background-size: cover;
-
 }
 
 .footer__author {
@@ -309,7 +308,7 @@
   margin: 0px;
   padding: 0px;
   line-height: 30px;
-  font-size: 18px ;
+  font-size: 18px;
   font-weight: bold;
 }
 
@@ -322,7 +321,7 @@
 
 .footer__column-link {
   line-height: 30px;
-  font-size: 18px ;
+  font-size: 18px;
   font-weight:normal;
   text-decoration: none;
   color: white;
